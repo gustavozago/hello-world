@@ -5,3 +5,7 @@ This is my first repo, I'm learning how to make one, so if you see anything that
 # Testing
 
 I am testing the README syntax :)
+
+# Baron
+
+O Baron é um cara fera
